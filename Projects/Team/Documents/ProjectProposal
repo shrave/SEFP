@@ -1,1 +1,4 @@
-Upload your project proposal here...
+Our project proposals are:-
+1.)To make a voice based code editor where generic codes, functions and procedures get written by mere calling of the funcion.For example, when we say "Take 5 integers as an input".The editor will directly write code to input 5 integers.
+If we say "Apply insertion sort". A method for insertion sort will directly be called.
+
