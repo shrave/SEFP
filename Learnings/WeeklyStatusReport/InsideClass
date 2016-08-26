@@ -19,3 +19,14 @@ Week 3
 #4 Every employee of a company may it be an analyst, a coder or a business manager has varied perceptions and models about the software which is being developed. No one knows how it will be modeled until it is released.
 #5 It is an engineering discipline as it involves modeling, prototyping and designing of products.
 
+Week 4
+#1 Software life cycle is being compared to human life cycle.Human life and software life cycle is different.You cannot control human life cycle whereas you are the designer and controller of software.
+#2 Life cycles have many aspects to it like actors, processes and so on.
+#3 There are different types of life cycles such as the waterfall model,scrum etc.
+#4 Life cycles may be either traditional or agile. Traditional models involve proper planning followed by implementation of the model.Waterfall model is a classic example of life cycles and comes under the traditional type of life cycle.
+#5 Agile models include planning and early release of a version for testing and then subsequent models are planned and developed based on the feedback.
+#6 Requirements can never be fully listed down or properly explained. It needs a person with a technical background and expertise to understand requirements properly in the technical world and the customer world.
+#7 It requires a lot of skill to interact with a customer being a representative of a software firm. The main problems with a customer is that he/she doesn't understand his/her needs until we show it to them.
+#8 Customers cannot directly suggest features  because they cannot imagine the project. So, giving them an idea of the prototype is essential.
+#9 Boeing has 1.20 lakh lines of requirements!
+#10 To properly talk and have a uniform language among the stakeholders(investors,users,developers) of a company, a proper language(use cases,UML,etc) has to be formulated which can easily communicate the prototype of the project.
