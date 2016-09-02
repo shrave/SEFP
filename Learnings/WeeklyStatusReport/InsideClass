@@ -30,3 +30,19 @@ Week 4
 #8 Customers cannot directly suggest features  because they cannot imagine the project. So, giving them an idea of the prototype is essential.
 #9 Boeing has 1.20 lakh lines of requirements!
 #10 To properly talk and have a uniform language among the stakeholders(investors,users,developers) of a company, a proper language(use cases,UML,etc) has to be formulated which can easily communicate the prototype of the project.
+
+Week 5
+#1 The trend is shifting from traditional models to agile models.Agile models don't mean that traditional processes are not being followed.It only means that the drawbacks of traditional models like getting stuck at the documentation phase, not being able to adapt to newer technologies is being overcomed by iterating over the waterfall model many a times.
+#2 There is a high amount of risk involved with agile life cycles.But there is high-value being delivered in the end.
+#3 No model is perfect and for us to choose a model, we have to keep in mind the various factors,influences related to our project and make the tradeoffs.
+#4 In pair programming, a member of the group only codes and the other member thinks and reviews the code.Then, they change roles.
+#5 In an incremental model, modules are designed, developed and tested in an incremental fashion.
+#6 There are numerous reasons why a software project can fail, we cannot predict its success.
+#7 In the scrum(agile) model, each day, members of a team have a group meeting in the morning discussing the tasks that would be finished by them during that day. It is about dividing a project into smaller blocks which can be completed in a day's/a few hours time.This process is done for 30 days to deliver the product.
+#8 Whether or not a project requires a project manager or not depends on many factors like the size, complexity of the project and so on. But as software developers, we must know how to manage projects.This is done by Software estimation, scheduling and tracking.
+#9 No two software projects can be the same.
+#10 Software quality comes with tradeoffs. Outside code(reused code) affects the quality of the software.
+#11 Estimates must be done iteratively and also effort estimation for each task is important.
+#12 WBS(Work Breakdown Structure) for every task must be defined.
+#13 A project can be estimated based on the lines of code(LOC), function points, feature points or a combination of these or none of them.LOC is a popular metric but not often the most accurate one.
+ 
