@@ -1,0 +1,40 @@
+﻿Q1)	What is the difference between Computer Science(CS) and Software Engineering (SE)?
+A:
+1. Software engineering is an applied form of computer science aimed at producing effective people for the industry. The basic difference between CS and SE is the same as the difference between theory and practical.
+2. The contributions made by software engineers may not always be useful for a CS academician or academics.
+Though it is very useful for the industry.
+3. While working on SE projects, not always is there a need to learn deeper level concepts of CS. Many software engineers don’t even read the CS literature to solve their problems but having a sound knowledge of it is advantageous.
+4. SE could not be fitted into any of the then(1969) departments of engineering a fundamental course. 
+For ex: A student taking a course in operations research and management science cannot claim to be doing a fundamental course in SE whereas courses like automata theory directly classify as fundamental courses.
+5. CS researchers usually look to extend the frontiers of the subject but SE researchers focus more on involving the applications of the basic principles.
+
+Q2)	How are projects in CS different from those on SE?
+A:
+1. Projects in CS may typically take 7-8 years or even more whereas projects in SE can be completed in a semester’s time.
+2. Software engineering products/projects may not be valued at an academic level but their very much valued by the industry.
+3. SE projects generate unimaginable results in less time, faster than the times estimated by CS academicians thus, many a times astounding them.
+
+Q3)	What are the steps involving in developing a SE product?
+A:
+The steps involved in developing a SE product includes:
+1. Designing.
+2. Stating the specifications.
+3. Dividing up into groups of two or three.
+4. Documenting.
+5. Ensuring that the product works.
+
+Q4)	Why is there a need of undergraduates in CS as compared to PhDs in the same field?
+A:
+According to McClure, undergraduates know certain tricks of the subject, graduates more tricks than undergraduates and PhDs have the ability to extend the frontiers of the subject. But this talent of the PhDs is not required by most in the industry. This is because the industry is in need of people who can man for its shops and not necessarily extend the frontiers of the subject.
+The industry wants people who have some abstract theoretical knowledge of what goes inside and a sound knowledge of the practical aspects of the technology.
+In many industry sponsored universities, graduates are expected to come out equipped with industry related skills.
+
+Q5)	What is the problem in calling computing a ‘Science’?
+A:
+The problem in calling Computing a science is that it is still not well defined.
+Universities spend a lot of time the state of the art engineering but importance of practicing basic principles of engineering is lost. According to Strachey, ‘We must get our basic principles right before venturing into the state of the art technology’.He says that universities must invest their time in discovering the basic principles of the subject, which is expected from them(academics).
+
+The basic principles of computer science can include:-
+1. The notion of a variable and assignment.
+2. The notion of a branch or expression.
+3. The notion of a function definition.
