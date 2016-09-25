@@ -45,4 +45,10 @@ Week 5
 #11 Estimates must be done iteratively and also effort estimation for each task is important.
 #12 WBS(Work Breakdown Structure) for every task must be defined.
 #13 A project can be estimated based on the lines of code(LOC), function points, feature points or a combination of these or none of them.LOC is a popular metric but not often the most accurate one.
- 
+
+Week 7
+#1 UI/UX design is as important as the backend functionality of the software.
+#2 A person who designs/tests the usability of interfaces is known as a Usability engineer.
+#3 A perfect design is a combination of value and experience.
+#4 Some ways in which we can ensure a better UI is assuming the user base through personas, making it simple and convienient for the user to use the software, converting error messages into users' terminology, making the elements of the UI intuitive.
+#5 A particular desgin that is prevalant in the industry and has become a standard for certain interfaces is known as a metaphor.
